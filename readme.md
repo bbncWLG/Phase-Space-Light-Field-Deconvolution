@@ -6,7 +6,7 @@
 * Version:    1.0 
 * Copyright:  2019, Zhi Lu,  Jiamin Wu, Hui Qiao, You Zhou, Tao Yan, Zijing Zhou, Xu Zhang, Jingtao Fan, Qionghai Dai*
 
-Edited based on the reference [1].
+Edited based on the reference [1,2].
 
 ## Overview
 
@@ -46,8 +46,9 @@ When you obtain such an incorrect result, please re-try to increase the 'maxIter
 Should you have any questions regarding this code and the corresponding results, please contact Zhi Lu (luz18@mails.tsinghua.edu.cn).
 
 # References
-[1] R. Prevedel, Y.-G. Yoon, M. Hoffmann, N. Pak, G. Wetzstein, S. Kato, T. Schr?del, R. Raskar, M. Zimmer, E. S. Boyden, and A. Vaziri, 
-    "Simultaneous whole-animal 3D imaging of neuronal activity using light-field microscopy," Nature Methods 11, 727¨C730 (2014).
+[1] Zhi Lu, Jiamin Wu, Hui Qiao, You Zhou, Tao Yan, Zijing Zhou, Xu Zhang, Jingtao Fan, and Qionghai Dai, "Phase-space deconvolution for light field microscopy," Opt. Express 27, 18131-18145 (2019).
+[2] R. Prevedel, Y.-G. Yoon, M. Hoffmann, N. Pak, G. Wetzstein, S. Kato, T. Schr?del, R. Raskar, M. Zimmer, E. S. Boyden, and A. Vaziri, 
+    "Simultaneous whole-animal 3D imaging of neuronal activity using light-field microscopy," Nature Methods 11, 727Â¨C730 (2014).
 
 
 
